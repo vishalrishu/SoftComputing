@@ -1,0 +1,2 @@
+# SoftComputing
+ Mini Projects
